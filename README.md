@@ -1,1 +1,1 @@
-Homework for Data Glacier Internship
+Projects for Data Glacier Internship
